@@ -3,7 +3,7 @@
 // @version      0.1
 // @description  check what kind of money is there in your deck based on poe ninja!
 // @author       ImAnEngineer
-// @match        https://poe.ninja/standard/divinationcards
+// @match        https://poe.ninja/*/divinationcards
 // @run-at       document-idle
 // ==/UserScript==
 
